@@ -38,7 +38,7 @@
  
   <a href="https://www.instagram.com/keven_lucas26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/keven-vieira-gondim-078696236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:kevengond@outlook.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdXiwfpCRP1REw_-K1-gEzluJBjSNljRTbvLgue6MdA&s" target="_blank"></a>
+  <a href="mailto:kevengond@outlook.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Outlook_logo_and_wordmark_%282012-2019%29.svg/1024px-Outlook_logo_and_wordmark_%282012-2019%29.svg.png" target="_blank"></a>
 </div>
 
 <div align="center">
