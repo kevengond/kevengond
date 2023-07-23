@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href=www.linkedin.com/in/keven-vieira-gondim-078696236> Keven Lucas 😎</a>
+    <a href=www.linkedin.com/in/keven-vieira-gondim-078696236> Keven Lucas</a>
   </h1>
   
   <p align="center">
@@ -14,8 +14,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+  <a href="https://github.com/kevengond/">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kevengond&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
