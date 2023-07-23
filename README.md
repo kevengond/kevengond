@@ -32,6 +32,7 @@
   <img align="center" alt="github" height="35" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-oitdFoAWcM84EZz_p4ec8JWWvUt3SrL8ViiGBTfGIw&s">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="c" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg>
 </div><br>
 
 <div align="center">
