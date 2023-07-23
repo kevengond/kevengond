@@ -1,8 +1,8 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href=www.linkedin.com/in/keven-vieira-gondim-078696236> Keven Lucas</a>
+    Oi, Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/keven-vieira-gondim-078696236/"> Keven Lucas</a>
   </h1>
   
   <p align="center">
