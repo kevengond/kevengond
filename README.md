@@ -38,7 +38,7 @@
  
   <a href="https://www.instagram.com/keven_lucas26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/keven-vieira-gondim-078696236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:kevengond@outlook.com"><img src="https://s2-techtudo.glbimg.com/2zsniqQDhGBk4nfV6KoQGRLiLuc=/0x0:695x517/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/P/t/ApYb1ARdOFIwrJWA5V5w/2014-03-10-outlook-logo.png" target="_blank"></a>
+  <a href="mailto:kevengond@outlook.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdXiwfpCRP1REw_-K1-gEzluJBjSNljRTbvLgue6MdA&s" target="_blank"></a>
 </div>
 
 <div align="center">
