@@ -34,6 +34,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img align="center" alt="SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+      <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
 </div><br>
 
 <div align="center">
