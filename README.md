@@ -50,4 +50,6 @@
   
 </div>
 
-<div class="tenor-gif-embed" data-postid="27101525" data-share-method="host" data-aspect-ratio="0.5625" data-width="100%"><a href="https://tenor.com/view/ghost-call-of-duty-ghost-cod-ghost-ghost-meme-cod-ghost-meme-gif-27101525">Ghost Call Of Duty Ghost GIF</a>from <a href="https://tenor.com/search/ghost-gifs">Ghost GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+<iframe src=https://media.giphy.com/media/a856eM30k6d8cmSDJ1/giphy.gif width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
