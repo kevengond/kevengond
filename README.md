@@ -50,6 +50,3 @@
   
 </div>
 
-<div align="center">
-<iframe src=https://media.giphy.com/media/a856eM30k6d8cmSDJ1/giphy.gif width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
