@@ -52,6 +52,6 @@
 
 <div align="center">
 
- https://media.giphy.com/media/D0iSw7Imc7KnYkc4I5/giphy.gif
+ https://tenor.com/pt-BR/view/ghost-call-of-duty-ghost-cod-ghost-ghost-meme-cod-ghost-meme-gif-27101525
   
 </div>
