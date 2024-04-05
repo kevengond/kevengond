@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de ciência da computação, tenho experiência de desenvolvimento fullstack na linguagem java e angular, e mantenho como hoby análise de dados no mercado financeiro.
+    Sou estudante de ciência da computação, tenho experiência de desenvolvimento fullstack na linguagem java e angular, e mantenho como hobby análise de dados no mercado financeiro.
   
   </p>
   
