@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de ciência da computação, tenho experiência de desenvolvimento fullstack na linguagem java e angular, e me aventuro no mundo de dados.
+    Sou estudante de ciência da computação, tenho experiência de desenvolvimento fullstack na linguagem java e angular, e atualmente estou estudando visão computacional.
   
   </p>
   
