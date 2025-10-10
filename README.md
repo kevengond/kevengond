@@ -19,9 +19,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=kevengond&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevengond&layout=compact&langs_count=10&theme=react&hide_border=true" />
 </p>
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=GabrielCCastrodev&theme=dracula&margin-w=15&no-frame=true" />
-</p>
+
 
 <div align="center" valign="top"><br>
   
